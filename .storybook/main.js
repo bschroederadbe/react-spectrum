@@ -9,6 +9,8 @@ module.exports = {
     '@storybook/addon-a11y',
     '@storybook/addon-knobs',
     'storybook-dark-mode',
+    '@storybook/addon-viewport',
+    'storybook-mobile',
     './custom-addons/provider/register',
     './custom-addons/descriptions/register',
     './theme.register'
